@@ -40,6 +40,11 @@ namespace Course
 
             Console.WriteLine();
             Console.WriteLine("Dados Atualizados: " + p);
+
+            
+            Console.WriteLine();
+            Console.WriteLine("Pressione qualquer tecla para finalizar...");
+            Console.ReadKey();
         }
 
     }
